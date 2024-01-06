@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="40" viewBox="0 0 1600 160">
+<defs>
+  <clipPath id="clip050">
+    <rect x="0" y="0" width="1600" height="160"></rect>
+  </clipPath>
+</defs>
+<path clip-path="url(#clip050)" d="M0 160 L1600 160 L1600 0 L0 0  Z" fill="#ffffff" fill-rule="evenodd" fill-opacity="1"></path>
+<defs>
+  <clipPath id="clip051">
+    <rect x="320" y="0" width="1121" height="160"></rect>
+  </clipPath>
+</defs>
+<path clip-path="url(#clip050)" d="M1.89605 156.366 L1596.85 156.366 L1596.85 3.14961 L1.89605 3.14961  Z" fill="#ffffff" fill-rule="evenodd" fill-opacity="1"></path>
+<defs>
+  <clipPath id="clip052">
+    <rect x="1" y="3" width="1596" height="154"></rect>
+  </clipPath>
+</defs>
+<polyline clip-path="url(#clip052)" style="stroke:#000000; stroke-linecap:round; stroke-linejoin:round; stroke-width:2; stroke-opacity:0.1; fill:none" points="20.442,156.366 20.442,3.14961 "></polyline>
+<polyline clip-path="url(#clip052)" style="stroke:#000000; stroke-linecap:round; stroke-linejoin:round; stroke-width:2; stroke-opacity:0.1; fill:none" points="1.89605,156.366 1596.85,156.366 "></polyline>
+<polyline clip-path="url(#clip052)" style="stroke:#000000; stroke-linecap:round; stroke-linejoin:round; stroke-width:2; stroke-opacity:0.1; fill:none" points="1.89605,118.062 1596.85,118.062 "></polyline>
+<polyline clip-path="url(#clip052)" style="stroke:#000000; stroke-linecap:round; stroke-linejoin:round; stroke-width:2; stroke-opacity:0.1; fill:none" points="1.89605,79.7576 1596.85,79.7576 "></polyline>
+<polyline clip-path="url(#clip052)" style="stroke:#000000; stroke-linecap:round; stroke-linejoin:round; stroke-width:2; stroke-opacity:0.1; fill:none" points="1.89605,41.4536 1596.85,41.4536 "></polyline>
+<polyline clip-path="url(#clip052)" style="stroke:#000000; stroke-linecap:round; stroke-linejoin:round; stroke-width:2; stroke-opacity:0.1; fill:none" points="1.89605,3.14961 1596.85,3.14961 "></polyline>
+<g clip-path="url(#clip052)">
+<image width="1595" height="153" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAABjsAAACZCAYAAAB5RIgVAAAFWUlEQVR4nO3ZSQqEQBAAwWr//2fn
+5F0ZwU6IeEFB9XLINXOeAy9yooDLWl9P0ODd5E3u3T073ju7a9vxTAHwjL/4nh3/PLsDZmaOrwcA
+AAAAAAD4h9gBAAAAAACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABA
+mtgBAAAAAACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAA
+AACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0A
+AAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0AAAAAAECa
+2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0AAAAAAECa2AEAAAAA
+AKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0AAAAAAECa2AEAAAAAAKSJHQAA
+AAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrY
+AQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAA
+pIkdAAAAAABAmtgBAAAAAACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAA
+AABAmtgBAAAAAACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgB
+AAAAAACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACk
+iR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0AAAAA
+AECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0AAAAAAECa2AEA
+AAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0AAAAAAECa2AEAAAAAAKSJ
+HQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAA
+QJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAA
+AAAApIkdAAAAAABAmtgBAAAAAACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkd
+AAAAAABAmtgBAAAAAACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABA
+mtgBAAAAAACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAA
+AACkiR0AAAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0A
+AAAAAECa2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0AAAAAAECa
+2AEAAAAAAKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACkiR0AAAAAAECa2AEAAAAA
+AKSJHQAAAAAAQJrYAQAAAAAApIkdAAAAAABAmtgBAAAAAACk/QDNrg0wQJ/zawAAAABJRU5ErkJg
+gg==
+" transform="translate(2, 3)"></image>
+</g>
+</svg>
